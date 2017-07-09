@@ -2,7 +2,7 @@
 # Created by https://www.gitignore.io/api/java,maven,windows,eclipse
 
 ### Eclipse ###
-
+context-datasource.xml
 .metadata
 bin/
 tmp/
